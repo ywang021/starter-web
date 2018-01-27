@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jack Wang yw3030@columbia.edu
 
 # THANKS
 
